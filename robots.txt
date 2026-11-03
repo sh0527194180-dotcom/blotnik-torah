@@ -6,3 +6,5 @@ Allow: /
 
 User-agent: *
 Allow: /
+
+Sitemap: https://sh0527194180-dotcom.github.io/blotnik-torah/sitemap.xml
